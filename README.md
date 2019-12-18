@@ -1,6 +1,6 @@
 <div align="center">
 <img height=100px src="./assets/icon.png">
-<h1>ContactsFire</h1>
+<h1>ContactsApp</h1>
 
 <img src="https://img.shields.io/badge/Made%20with-Expo-blue.svg"/>
 </div>
