@@ -5,15 +5,16 @@
 <img src="https://img.shields.io/badge/Made%20with-Expo-blue.svg"/>
 </div>
 
-- Contacts App with Firebase and react native
+- Contacts App with LocalStorage on your phone and react native
 - Functionality
-  - store photo of contact in fireabse
+  - store contact in LocalStorage of your phone
   - updation, deletion and creation of new contact with necessary details
 
 ---
 
 - Tech Stack
   - React Native
+  - Local Storage
   - JavaScript
 
 To Build in Your system:
